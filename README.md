@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img decoding="async" src="https://i.pinimg.com/originals/20/b7/01/20b701f1831a13807327d774342445e8.gif">
-</div>
+</p>
 
 <p style="text-align: center;">𝔦 ⠀⠀𝔞𝔪 ⠀⠀𝔶𝔬𝔲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝔞𝔫𝔡 ⠀⠀𝔶𝔬𝔲⠀⠀ 𝔞𝔯𝔢 ⠀⠀𝔦
 </p>
