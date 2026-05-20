@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img decoding="async" src="[image-url.jpg](https://i.pinimg.com/originals/20/b7/01/20b701f1831a13807327d774342445e8.gif)">
+  <img decoding="async" src="[image-url.jpg](https://i.pinimg.com/originals/20/b7/01/20b701f1831a13807327d774342445e8.gif)" alt="Image Description">
 </div>
 
 <p style="text-align: center;">𝔦 ⠀⠀𝔞𝔪 ⠀⠀𝔶𝔬𝔲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝔞𝔫𝔡 ⠀⠀𝔶𝔬𝔲⠀⠀ 𝔞𝔯𝔢 ⠀⠀𝔦
