@@ -1,5 +1,5 @@
 </p>
-<p align="center"> https://eeek.atabook.org/
+<p align="center"> <a href="https://eeek.atabook.org/">ATA</a>
 </p>
 
 <p align="center">
