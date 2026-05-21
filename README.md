@@ -1,5 +1,5 @@
 </p>
-<p align="center"> [__ATA__](https://eeek.atabook.org/)
+<p align="center"> https://eeek.atabook.org/
 </p>
 
 <p align="center">
