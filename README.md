@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=green&label=♡)
+![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=black&label=♡)
 
 </p>
 <p align="center"> <a href="https://eeek.atabook.org/">𝓐TA</a>
