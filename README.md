@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<table>
   <tr>
     <td align="center">
       <a href="https://eeek.atabook.org/">
@@ -28,7 +27,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 </div>
 
