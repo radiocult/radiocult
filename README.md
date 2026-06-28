@@ -1,36 +1,26 @@
 ![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=grey&label=♡)
 
-<img src="./assets/ata.gif" width="100">
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://eeek.atabook.org/">
-        <img src="./assets/ata.gif" width="100" alt="Ata gif">
-        <br>
-        𝓐𝔱𝔞‎
-      </a>
-    </td>
+<a href="https://eeek.atabook.org/">
+  <img src="./assets/ata.gif" width="100" alt="Ata gif">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">
+  <img src="./assets/straw.gif" width="100" alt="Straw gif">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">
+  <img src="./assets/pronouns.gif" width="100" alt="Pronouns gif">
+</a>
 
-   <td align="center">
-      <a href="https://eeekky.straw.page/">
-        <img src="./assets/straw.gif" width="100" alt="Straw gif">
-        <br>
-        𝓢𝔱𝔯𝔞𝔴
-      </a>
-    </td>
+<br>
 
-   <td align="center">
-      <a href="https://eeekky.straw.page/">
-        <img src="./assets/pronouns.gif" width="100" alt="Pronouns gif">
-        <br>
-        𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
 
 </div>
 
