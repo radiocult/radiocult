@@ -2,41 +2,25 @@
 
 <div align="center">
 
+<a href="https://eeek.atabook.org/">
+  <img src="./assets/ata.gif" width="120" height="70" alt="Ata gif">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">
+  <img src="./assets/straw.gif" width="120" height="70" alt="Straw gif">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">
+  <img src="./assets/pronouns.gif" width="120" height="70" alt="Pronouns gif">
+</a>
 
-  <tr>
-    <td align="center" width="160">
-      <a href="https://eeek.atabook.org/">
-        <img src="./assets/ata.gif" width="120" height="70" alt="Ata gif">
-      </a>
-    </td>
+<br>
 
-  <td align="center" width="160">
-      <a href="https://eeekky.straw.page/">
-        <img src="./assets/straw.gif" width="120" height="70" alt="Straw gif">
-      </a>
-    </td>
-
-  <td align="center" width="160">
-      <a href="https://eeekky.straw.page/">
-        <img src="./assets/pronouns.gif" width="120" height="70" alt="Pronouns gif">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="160">
-      <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
-    </td>
-
-  <td align="center" width="160">
-      <a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
-    </td>
-
-  <td align="center" width="160">
-      <a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
-    </td>
-  </tr>
-
+<a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
 
 </div>
 
