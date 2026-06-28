@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
+<a href="https://en.pronouns.page/@eeekky">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
 
 </div>
 
