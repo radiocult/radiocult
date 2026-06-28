@@ -12,7 +12,7 @@
       </a>
     </td>
 
-    <td align="center">
+   <td align="center">
       <a href="https://eeekky.straw.page/">
         <img src="./assets/straw.gif" width="100" alt="Straw gif">
         <br>
@@ -20,7 +20,7 @@
       </a>
     </td>
 
-    <td align="center">
+   <td align="center">
       <a href="https://eeekky.straw.page/">
         <img src="./assets/pronouns.gif" width="100" alt="Pronouns gif">
         <br>
