@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table>
+
   <tr>
     <td align="center" width="160">
       <a href="https://eeek.atabook.org/">
@@ -36,7 +36,7 @@
       <a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
     </td>
   </tr>
-</table>
+
 
 </div>
 
