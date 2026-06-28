@@ -2,7 +2,8 @@
 
 </p>
 <p align="center"> <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎ ‎ ‎ </a>
-  <a href="https://eeekky.straw.page/">‎ ‎ ‎ 𝓢𝔱𝔯𝔞𝔴</a>
+  </p>
+<p align="center"> <a href="https://eeekky.straw.page/">‎ ‎ ‎ 𝓢𝔱𝔯𝔞𝔴</a>
 </p>
 
 <p align="center">
