@@ -2,19 +2,21 @@
 
 <div align="center">
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
       <a href="https://eeek.atabook.org/">
-        <img src="https://raw.githubusercontent.com/radiocult/radiocult/main/assets/ata.gif" width="100" alt="Ata gif">
+        <img src="./assets/ata.gif" width="100" alt="Ata gif">
         <br>
         𝓐𝔱𝔞‎
       </a>
     </td>
-    
-  <td align="center">
+
+   <td align="center">
       <a href="https://eeekky.straw.page/">
-        <img src="https://raw.githubusercontent.com/radiocult/radiocult/main/assets/straw.gif" width="100" alt="Straw gif">
+        <img src="./assets/straw.gif" width="100" alt="Straw gif">
         <br>
         𝓢𝔱𝔯𝔞𝔴
       </a>
@@ -22,15 +24,13 @@
 
    <td align="center">
       <a href="https://eeekky.straw.page/">
-        <img src="https://raw.githubusercontent.com/radiocult/radiocult/main/assets/pronouns.gif" width="100" alt="Pronouns gif">
+        <img src="./assets/pronouns.gif" width="100" alt="Pronouns gif">
         <br>
-        𝓟𝔯𝔬𝔫𝔬𝔲𝔫𝓼
+        𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼
       </a>
     </td>
   </tr>
 </table>
-
-</div>
 
 </div>
 
