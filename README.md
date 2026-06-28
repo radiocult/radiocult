@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=grey&label=♡)
 
-<div align="center">
+<img src="./assets/ata.gif" width="100">
 
 <div align="center">
 
