@@ -1,9 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=grey&label=♡)
 
 </p>
-<p align="center"> <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎ ‎ ‎ </a>
+<p align="center"> <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
   </p>
-<p align="center"> <a href="https://eeekky.straw.page/">‎ ‎ ‎ 𝓢𝔱𝔯𝔞𝔴</a>
+<p align="center"> <a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
 </p>
 
 <p align="center">
