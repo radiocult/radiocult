@@ -17,9 +17,9 @@
 <br>
 
 <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://eeekky.straw.page/">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
 
 </div>
