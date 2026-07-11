@@ -1,4 +1,10 @@
-![Profile views](https://komarev.com/ghpvc/?username=radiocult&style=flat-square&color=grey&label=♡)
+<div align="center">
+
+# [ART FIGHT!!!](https://artfight.net/~eeekky)
+
+</div>
+
+![Profile views](https://komarev.com/ghpvc/?username=radiocult\&style=flat-square\&color=grey\&label=♡)
 
 <div align="center">
 
@@ -10,23 +16,22 @@
   <img src="./assets/straw.gif" width="120" height="70" alt="Straw gif">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://eeekky.straw.page/">
+<a href="https://en.pronouns.page/@eeekky">
   <img src="./assets/pronouns.gif" width="120" height="70" alt="Pronouns gif">
 </a>
 
 <br>
 
 <a href="https://eeek.atabook.org/">𝓐𝔱𝔞‎</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://en.pronouns.page/@eeekky">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
+               <a href="https://eeekky.straw.page/">𝓢𝔱𝔯𝔞𝔴</a>
+               <a href="https://en.pronouns.page/@eeekky">𝓟𝔯𝔬𝔫𝓸𝓾𝓷𝓼</a>
 
 </div>
 
 <p align="center">
   <img decoding="async" src="https://i.pinimg.com/originals/20/b7/01/20b701f1831a13807327d774342445e8.gif">
 </p>
-</p>
-<p align="center"> 𝔦 ⠀⠀𝔞𝔪 ⠀⠀𝔶𝔬𝔲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝔞𝔫𝔡 ⠀⠀𝔶𝔬𝔲⠀⠀ 𝔞𝔯𝔢 ⠀⠀𝔦
+
+<p align="center">
+  𝔦 ⠀⠀𝔞𝔪 ⠀⠀𝔶𝔬𝔲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝔞𝔫𝔡 ⠀⠀𝔶𝔬𝔲⠀⠀ 𝔞𝔯𝔢 ⠀⠀𝔦
 </p>
