@@ -1,7 +1,3 @@
-<div align="center">
-
-# [ART FIGHT!!!](https://artfight.net/~eeekky)
-
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=radiocult\&style=flat-square\&color=grey\&label=♡)
